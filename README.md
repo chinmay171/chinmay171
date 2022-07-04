@@ -31,4 +31,4 @@
 
 <p>                                                                                                     </p>
 
-<p><img align="center" width="600px" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmay171&" alt="chinmay171" /></p>
+<p><img align="center" width="475px" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmay171&" alt="chinmay171" /></p>
