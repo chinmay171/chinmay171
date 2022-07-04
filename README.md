@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Java, JS, HTML, OOPs**
 
-- 📫 How to reach me - [mail-id](chinmaygupta171@gmail.com)
+- 📫 How to reach me - **chinmaygupta171@gmail.com**
 
 - ⚡ Fun fact **PR in solving rubik's cube -> 41sec**
 
