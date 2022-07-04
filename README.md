@@ -18,11 +18,11 @@
 
 - 🌱 I’m currently learning **ReactJS, Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://github.com/chinmay171](https://github.com/chinmay171)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/chinmay171?tab=repositories)
 
 - 💬 Ask me about **Java, JS, HTML, OOPs**
 
-- 📫 How to reach me **chinmaygupta171@gmail.com**
+- 📫 How to reach me - [mail-id](chinmaygupta171@gmail.com)
 
 - ⚡ Fun fact **PR in solving rubik's cube -> 41sec**
 
