@@ -1,16 +1,13 @@
-<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Chinmay Gupta!</h1>
+
 
 <h4 align="center">I am a under-graduate(2024) student 📚. World works on Algorithms beyond human logic.</h4>
 <br/>
 
 <div align="center">
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/chinmay-gupta-a0282b1ba/)
-<img alt="followers" src="https://img.shields.io/github/followers/chinmay171?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chinmay171&label=Profile%20views&color=0e75b6&style=flat" alt="chinmay171" /> </p>
   
 </div> 
-<br/>
+
 
 
 ## 🧐 About Me
