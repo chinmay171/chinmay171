@@ -11,7 +11,7 @@
 
 
 ## 🧐 About Me
-- 🔭 I’m currently working on [imdb Clone](https://github.com/chinmay171/Movies-App)
+- 🔭 I’m currently working on [Reels Clone](https://github.com/chinmay171/reels-clone)
 
 - 🌱 I’m currently learning **ReactJS, Algorithms**
 
