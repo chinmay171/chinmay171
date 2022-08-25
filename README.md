@@ -1,6 +1,6 @@
 
 
-<h4 align="center">I am a under-graduate(2024) student 📚. World works on Algorithms beyond human logic.</h4>
+<h4 align="center">A 2024'grad 📚. World works on Algorithms beyond human logic.</h4>
 <br/>
 
 <div align="center">
