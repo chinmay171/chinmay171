@@ -1,6 +1,6 @@
 
 
-<h4 align="center">A 2024'grad 📚. Dry run decision's twice, before implementing</h4>
+<h4 align="center">A 2024'grad 📚. Dry run decision's twice, before submitting in real world</h4>
 <br/>
 
 <div align="center">
